@@ -1,0 +1,213 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Your Trusted Gateway to Albania",
+      "title": "Atlas Albany",
+      "subtitle": "We help you achieve your goals in Albania through integrated services including visas, tourism programs, study residence, and residence permits. We guide you step by step and provide all the support needed for a smooth and secure experience.",
+      "cta1": "Start Your Journey",
+      "cta2": "Learn About Us"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "A full suite of services tailored for individuals, families, and students",
+      "items": [
+        {
+          "title": "Albania Visas",
+          "description": "We provide expert assistance and consultation for obtaining all types of Albanian visas, with precise tracking of requirements and proper file preparation.",
+          "features": [
+            "Document review and preparation",
+            "Full guidance throughout the application process",
+            "Request follow-up and inquiry response",
+            "Expert advice to maximize file readiness"
+          ]
+        },
+        {
+          "title": "Tourism Programs",
+          "description": "Discover the beauty of Albania through carefully designed tourism programs suited for individuals, families, and groups.",
+          "features": [
+            "Airport pick-up and drop-off",
+            "Hotel and apartment reservations",
+            "Organized sightseeing tours",
+            "Private transportation",
+            "Custom programs based on duration and budget"
+          ]
+        },
+        {
+          "title": "Study Residence",
+          "description": "If you wish to study in Albania, we provide the support you need from choosing your major through completing your residence procedures.",
+          "features": [
+            "Assistance choosing the right university",
+            "University admission procedures follow-up",
+            "Required document preparation",
+            "Study visa application support",
+            "Post-arrival residence procedures follow-up"
+          ]
+        },
+        {
+          "title": "Residence Permits",
+          "description": "We provide specialized services to assist individuals in obtaining and renewing residence permits in Albania in accordance with applicable regulations.",
+          "features": [
+            "Consultations on available residence types",
+            "File preparation and review",
+            "Official procedures follow-up",
+            "Renewal and amendment services when needed",
+            "Continuous support until decision is received"
+          ]
+        }
+      ]
+    },
+    "whyUs": {
+      "title": "Why Choose Atlas Albany?",
+      "items": [
+        "Proven expertise in Albania-related services",
+        "Precise follow-up at every step of the process",
+        "Full Arabic and English support for easy communication",
+        "Tailored solutions for individuals, students, and families",
+        "Commitment to transparency and credibility in all procedures"
+      ]
+    },
+    "cta": {
+      "title": "Start Your Journey Today",
+      "subtitle": "Whether you want to visit Albania, study there, or obtain legal residency, the Atlas Albany team is ready to help and provide full support from start to finish.",
+      "button": "Contact Us Now"
+    },
+    "meta": {
+      "title": "Atlas Albany - Your Gateway to Albania | Visas, Tourism, Study, Residency",
+      "description": "Atlas Albany provides integrated services for Arabic-speaking clients in Albania: visas, tourism programs, study residence, and residence permits. 7+ years of expertise.",
+      "keywords": "Atlas Albany, Albania visa, Albania tourism, study in Albania, Albania residency, residence permit"
+    }
+  },
+  "about": {
+    "hero": {
+      "tagline": "About Us",
+      "title": "Atlas Albany",
+      "subtitle": "Your Trusted Gateway to Albania"
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "At Atlas Albany, we believe every successful journey begins with the right first step. That is why we work to provide comprehensive services for individuals, families, and students who wish to visit Albania, settle there, or continue their education within the country.",
+      "paragraph2": "Over more than 7 years of experience in the Albanian market, we have successfully helped hundreds of clients achieve their goals with confidence and ease. Thanks to our commitment to quality, professionalism, and precise follow-up, Atlas Albany has become a distinguished name and one of the leading providers of visa, tourism, study residence, and residence permit services in Albania.",
+      "paragraph3": "With our extensive expertise, we provide clients with practical solutions, clear procedures, and continuous support at every stage — from the initial consultation to successful completion of the service.",
+      "stat": "7+",
+      "statLabel": "Years of Experience"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To be the first choice for Arabic-speaking clients seeking reliable and comprehensive services in Albania, and to contribute to facilitating access to educational, tourism, and investment opportunities within the country."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To deliver professional services distinguished by transparency, precision, and commitment, while providing a smooth and secure experience that helps our clients achieve their goals with minimal effort and in the shortest possible time."
+    },
+    "services": {
+      "title": "What We Offer",
+      "items": [
+        {
+          "title": "Visas",
+          "description": "We help clients understand the requirements of various visa types and prepare the necessary files and documents, providing guidance and follow-up throughout all stages of the application."
+        },
+        {
+          "title": "Tourism Programs",
+          "description": "We offer diverse tourism programs suited for individuals, families, and groups, including trip organization, airport reception, accommodation booking, and sightseeing tours across Albania's most beautiful cities and regions."
+        },
+        {
+          "title": "Study Residence",
+          "description": "We support students wishing to study in Albania by helping them choose the right university, completing admission procedures, and following up on the steps needed to obtain study residence."
+        },
+        {
+          "title": "Residence Permits",
+          "description": "We provide specialized services for obtaining, renewing, and correcting residence status in accordance with Albanian laws and procedures, with precise follow-up until the final decision is issued."
+        }
+      ]
+    },
+    "whyUs": {
+      "title": "Why Atlas Albany?",
+      "items": [
+        "More than 7 years of experience in the Albanian market",
+        "A proven track record of successful clients and outstanding experiences",
+        "Full support in Arabic and English",
+        "Personal follow-up for every file and every client",
+        "Commitment to transparency and clarity in all stages",
+        "Fast communication and quick response to inquiries",
+        "An extensive network of partners and service providers within Albania"
+      ]
+    },
+    "commitment": {
+      "title": "Our Commitment to Clients",
+      "text1": "We always strive to build long-term relationships based on trust and professionalism. That is why we are committed to providing accurate information and reliable services, with continuous follow-up to ensure the best possible experience for every client.",
+      "text2": "At Atlas Albany, we do not just provide a service — we accompany you on your journey to Albania, step by step, until you reach your goal with confidence and peace of mind."
+    },
+    "meta": {
+      "title": "About Us - Atlas Albany | 7+ Years of Albania Services Expertise",
+      "description": "Learn about Atlas Albany, a leading company in visa, tourism, study, and residence services in Albania for over 7 years. Serving Arabic-speaking clients with transparency and professionalism.",
+      "keywords": "Atlas Albany about, Albania services expertise, Arabic services Albania"
+    }
+  },
+  "contact": {
+    "hero": {
+      "tagline": "Contact Us",
+      "title": "We Are Here to Help",
+      "subtitle": "Whether you need an Albanian visa, a unique tourism program, or assistance with study or residence procedures, the Atlas Albany team is ready to answer all your questions and provide the support you need."
+    },
+    "info": {
+      "title": "Contact Information",
+      "phone": "+355 68 946 1403",
+      "email": "Khaled.sh@atlas-albany.com",
+      "address": "Rruga Don Bosko, Tiranë 1000",
+      "whatsapp": "+355 68 946 1403",
+      "facebook": "Atlas Albany",
+      "labels": {
+        "phone": "Phone",
+        "email": "Email",
+        "address": "Address",
+        "whatsapp": "WhatsApp",
+        "facebook": "Facebook"
+      }
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "service": "Service Required",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message has been sent successfully! We will contact you soon.",
+      "error": "Something went wrong. Please try again or contact us via WhatsApp.",
+      "services": [
+        "Albania Visa",
+        "Tourism Programs",
+        "Study Residence",
+        "Residence Permit",
+        "General Inquiry"
+      ],
+      "placeholders": {
+        "name": "Enter your full name",
+        "email": "example@email.com",
+        "phone": "Phone number with country code",
+        "service": "Select a service",
+        "message": "Write your inquiry or request here..."
+      }
+    },
+    "meta": {
+      "title": "Contact Us - Atlas Albany | We Are Here to Help",
+      "description": "Contact the Atlas Albany team for a free consultation on visa, tourism, study, and residence services in Albania. Phone: +355 68 946 1403",
+      "keywords": "contact Atlas Albany, Albania visa consultation, Atlas Albany phone"
+    }
+  },
+  "footer": {
+    "tagline": "Your trusted path to a new future.",
+    "links": "Quick Links",
+    "services": "Our Services",
+    "servicesList": ["Albania Visas", "Tourism Programs", "Study Residence", "Residence Permits"],
+    "rights": "All rights reserved",
+    "company": "Atlas Albany"
+  }
+}
