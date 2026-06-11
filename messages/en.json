@@ -176,6 +176,7 @@
       "email": "Email Address",
       "phone": "Phone Number",
       "service": "Service Required",
+      "subject": "Message Subject",
       "message": "Your Message",
       "submit": "Send Message",
       "sending": "Sending...",

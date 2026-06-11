@@ -18,7 +18,7 @@ export default function ContactForm() {
 
   const [status, setStatus] = useState<'idle' | 'sending' | 'success' | 'error'>('idle')
   const [formData, setFormData] = useState({
-    name: '', email: '', phone: '', service: '', message: '',
+    name: '', email: '', phone: '', service: '', subject: '', message: '',
   })
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
@@ -43,7 +43,7 @@ export default function ContactForm() {
 
       if (res.ok) {
         setStatus('success')
-        setFormData({ name: '', email: '', phone: '', service: '', message: '' })
+        setFormData({ name: '', email: '', phone: '', service: '', subject: '', message: '' })
       } else {
         setStatus('error')
       }
@@ -90,6 +90,7 @@ export default function ContactForm() {
         <input name="email" />
         <input name="phone" />
         <select name="service"><option /></select>
+        <input name="subject" />
         <textarea name="message" />
       </form>
 
@@ -154,7 +155,20 @@ export default function ContactForm() {
           </div>
 
           <div>
-            <label className="block text-xs text-white/50 uppercase tracking-widest mb-2">{t('message')}</label>
+            <label className="block text-xs text-gray-500 uppercase tracking-widest mb-2">{t('subject')}</label>
+            <input
+              type="text"
+              name="subject"
+              required
+              value={formData.subject}
+              onChange={handleChange}
+              placeholder={t('subject')}
+              className={inputClass}
+            />
+          </div>
+
+          <div>
+            <label className="block text-xs text-gray-500 uppercase tracking-widest mb-2">{t('message')}</label>
             <textarea
               name="message"
               required
